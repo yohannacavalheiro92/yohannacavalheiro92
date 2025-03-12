@@ -5,4 +5,6 @@ Eu sou a Yohanna Cavalheiro, sou uma programadora Front End 💻, atualmente cur
 :heavy_check_mark: HTML 
 
 :heavy_check_mark: CSS 
+
+:heavy_check_mark: GIT E GITHUB
   
